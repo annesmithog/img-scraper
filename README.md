@@ -2,9 +2,9 @@
 
 ## 環境
 
-Python: 3.13
-OS: macOS
-Browser: Google Chrome
+1. Python: 3.13
+2. OS: macOS
+3. Browser: Google Chrome
 
 ## 手順
 
