@@ -1,4 +1,5 @@
 # img-scraper
+Python script for scraping Google images.
 
 ## 環境
 
