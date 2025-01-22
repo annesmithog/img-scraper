@@ -42,7 +42,7 @@ python main.py --keyword='Laravel Icon' --count=5
 オプション確認
 
 ```sh
-python main.py
+python main.py --help
 ```
 
 ## 開発者用コマンド
